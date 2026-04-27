@@ -20,7 +20,7 @@ API REST para la gestión de empleados, desarrollada con Spring Boot 3, Java 17 
 src/
 └── main/
     └── java/
-        └── com/tuempresa/employees/
+        └── com/etica/employees/
             ├── web/
             │   ├── controller/    # Endpoints REST
             │   └── dto/           # Objetos de transferencia
